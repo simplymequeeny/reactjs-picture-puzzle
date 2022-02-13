@@ -23,7 +23,7 @@ const Game = () => {
 
   return (
     <div>
-      <h1>Picture Puzzle</h1>
+      <h1>Picture Puzzle <pre>source code on <a href='https://github.com/simplymequeeny/reactjs-picture-puzzle'>github.com/simplymequeeny/reactjs-picture-puzzle</a></pre></h1>
       <Board incrimentNoOfMoves={incrimentNoOfMoves}/>
       <h3>No of Moves: {numberOfMoves}</h3>
     </div>
