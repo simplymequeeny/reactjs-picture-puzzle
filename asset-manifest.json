@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9d15e57.css",
-    "main.js": "/static/js/main.13b83b9f.js",
-    "static/media/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg": "/static/media/Van_Gogh_-_Starry_Night_-_Google_Art_Project.f1dc642d8fc94251fefa.jpg",
-    "static/media/5.jpg": "/static/media/5.6da625fd15b120564e09.jpg",
-    "static/media/2.jpg": "/static/media/2.e18e9d96fd840c6ee2d6.jpg",
-    "static/media/11.jpg": "/static/media/11.c7b8b01e7ec5cb8c10a3.jpg",
-    "static/media/1.jpg": "/static/media/1.ff391a7e1d1cc662aff9.jpg",
-    "static/media/14.jpg": "/static/media/14.fd82a818388cf185a657.jpg",
-    "static/media/3.jpg": "/static/media/3.a0a4f6e7e5160f6e55ea.jpg",
-    "static/media/6.jpg": "/static/media/6.4569d880861609b2a485.jpg",
-    "static/media/10.jpg": "/static/media/10.d2da71a38d2553fe934a.jpg",
-    "static/media/7.jpg": "/static/media/7.5fefa3569bdd97beef17.jpg",
-    "static/media/4.jpg": "/static/media/4.02ea9657f8e57e01596a.jpg",
-    "static/media/9.jpg": "/static/media/9.af8361b99ddff74f83e7.jpg",
-    "static/media/0.jpg": "/static/media/0.d8594a4132c442f05f2b.jpg",
-    "static/media/8.jpg": "/static/media/8.05619a8ee39466810693.jpg",
-    "static/media/12.jpg": "/static/media/12.121300c1214d623e85b7.jpg",
-    "static/media/13.jpg": "/static/media/13.4af2fc9b69d95771ee57.jpg",
-    "index.html": "/index.html",
-    "main.a9d15e57.css.map": "/static/css/main.a9d15e57.css.map",
-    "main.13b83b9f.js.map": "/static/js/main.13b83b9f.js.map"
+    "main.css": "/reactjs-picture-puzzle/static/css/main.a9d15e57.css",
+    "main.js": "/reactjs-picture-puzzle/static/js/main.ea64af73.js",
+    "static/media/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg": "/reactjs-picture-puzzle/static/media/Van_Gogh_-_Starry_Night_-_Google_Art_Project.f1dc642d8fc94251fefa.jpg",
+    "static/media/5.jpg": "/reactjs-picture-puzzle/static/media/5.6da625fd15b120564e09.jpg",
+    "static/media/2.jpg": "/reactjs-picture-puzzle/static/media/2.e18e9d96fd840c6ee2d6.jpg",
+    "static/media/11.jpg": "/reactjs-picture-puzzle/static/media/11.c7b8b01e7ec5cb8c10a3.jpg",
+    "static/media/1.jpg": "/reactjs-picture-puzzle/static/media/1.ff391a7e1d1cc662aff9.jpg",
+    "static/media/14.jpg": "/reactjs-picture-puzzle/static/media/14.fd82a818388cf185a657.jpg",
+    "static/media/3.jpg": "/reactjs-picture-puzzle/static/media/3.a0a4f6e7e5160f6e55ea.jpg",
+    "static/media/6.jpg": "/reactjs-picture-puzzle/static/media/6.4569d880861609b2a485.jpg",
+    "static/media/10.jpg": "/reactjs-picture-puzzle/static/media/10.d2da71a38d2553fe934a.jpg",
+    "static/media/7.jpg": "/reactjs-picture-puzzle/static/media/7.5fefa3569bdd97beef17.jpg",
+    "static/media/4.jpg": "/reactjs-picture-puzzle/static/media/4.02ea9657f8e57e01596a.jpg",
+    "static/media/9.jpg": "/reactjs-picture-puzzle/static/media/9.af8361b99ddff74f83e7.jpg",
+    "static/media/0.jpg": "/reactjs-picture-puzzle/static/media/0.d8594a4132c442f05f2b.jpg",
+    "static/media/8.jpg": "/reactjs-picture-puzzle/static/media/8.05619a8ee39466810693.jpg",
+    "static/media/12.jpg": "/reactjs-picture-puzzle/static/media/12.121300c1214d623e85b7.jpg",
+    "static/media/13.jpg": "/reactjs-picture-puzzle/static/media/13.4af2fc9b69d95771ee57.jpg",
+    "index.html": "/reactjs-picture-puzzle/index.html",
+    "main.a9d15e57.css.map": "/reactjs-picture-puzzle/static/css/main.a9d15e57.css.map",
+    "main.ea64af73.js.map": "/reactjs-picture-puzzle/static/js/main.ea64af73.js.map"
   },
   "entrypoints": [
     "static/css/main.a9d15e57.css",
-    "static/js/main.13b83b9f.js"
+    "static/js/main.ea64af73.js"
   ]
 }
