@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactjs-picture-puzzle/static/css/main.a9d15e57.css",
-    "main.js": "/reactjs-picture-puzzle/static/js/main.ea64af73.js",
+    "main.js": "/reactjs-picture-puzzle/static/js/main.230bf726.js",
     "static/media/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg": "/reactjs-picture-puzzle/static/media/Van_Gogh_-_Starry_Night_-_Google_Art_Project.f1dc642d8fc94251fefa.jpg",
     "static/media/5.jpg": "/reactjs-picture-puzzle/static/media/5.6da625fd15b120564e09.jpg",
     "static/media/2.jpg": "/reactjs-picture-puzzle/static/media/2.e18e9d96fd840c6ee2d6.jpg",
@@ -20,10 +20,10 @@
     "static/media/13.jpg": "/reactjs-picture-puzzle/static/media/13.4af2fc9b69d95771ee57.jpg",
     "index.html": "/reactjs-picture-puzzle/index.html",
     "main.a9d15e57.css.map": "/reactjs-picture-puzzle/static/css/main.a9d15e57.css.map",
-    "main.ea64af73.js.map": "/reactjs-picture-puzzle/static/js/main.ea64af73.js.map"
+    "main.230bf726.js.map": "/reactjs-picture-puzzle/static/js/main.230bf726.js.map"
   },
   "entrypoints": [
     "static/css/main.a9d15e57.css",
-    "static/js/main.ea64af73.js"
+    "static/js/main.230bf726.js"
   ]
 }
