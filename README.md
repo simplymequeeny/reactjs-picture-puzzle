@@ -8,5 +8,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Thanks To
 * This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-* Image used from Van Gogh's Starry Night from Google Arth Project
+* Van Gogh's Starry Night Picture downloaded from Google Arth Project
 * Cut photo to equal parts @ https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php
